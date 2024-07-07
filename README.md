@@ -1,9 +1,13 @@
 Top Languages Card
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuSung011017&layout=compact)
-<hr>
+
+<br>
+
 GitHub Stats Card
 ![유성's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuSung011017&show_icons=true&theme=radical)
-<hr>
+
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@dldbtjd14742/posts">
