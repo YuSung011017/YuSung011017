@@ -10,6 +10,14 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldbtjd1017)](https://solved.ac/dldbtjd1017/)
 
+<h3>✨ Tech Stack ✨</h3>
+
+<div>
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white /">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white /">
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=GitHub Actions&logoColor=white /">
+</div>
+
 <h3>📫 Contact 📫</h3>
 
 <div>
