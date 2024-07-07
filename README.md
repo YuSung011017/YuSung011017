@@ -8,7 +8,7 @@
 
 <h3>Baekjoon</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=<h3>Top Languages Card</h3>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldbtjd1017)](https://solved.ac/dldbtjd1017/)
 
 <h3>📫 Contact 📫</h3>
 
