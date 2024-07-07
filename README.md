@@ -5,9 +5,7 @@
 <br>
 <div align="center">
 GitHub Stats Card
-![유성's GitHub stats]
-  <br>
-  (https://github-readme-stats.vercel.app/api?username=YuSung011017&show_icons=true&theme=radical)
+![Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuSung011017&show_icons=true&theme=radical)
 </div>
 <br>
 <h3 align="center">📫 Contact 📫</h3>
