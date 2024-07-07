@@ -1,13 +1,13 @@
-<div align="center">
 <h3 align="center">Top Languages Card</h3>
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuSung011017&layout=compact)
 </div>
-<br>
+
+<h3 align="center">GitHub Stats Card</h3>
 <div align="center">
-GitHub Stats Card
 ![Sung's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuSung011017&show_icons=true&theme=radical)
 </div>
-<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@dldbtjd14742/posts">
