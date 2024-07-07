@@ -1,4 +1,5 @@
 Top Languages Card
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuSung011017&layout=compact)
 
 <br>
@@ -9,6 +10,7 @@ GitHub Stats Card
 <br>
 
 <h3 align="center">📫 Contact 📫</h3>
+<br>
 <div align="center">
   <a href="https://velog.io/@dldbtjd14742/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
