@@ -18,5 +18,5 @@ GitHub Stats Card
       src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 <a href="https://married-dumpling-0ef.notion.site/main-3bb508e80e854a4b81301c9b5f66e530" target="_blank">
-<img src="https://img.shields.io/badge?style=for-the-badge&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/notion-black?style=for-the-badge&logo=notion&logoColor=000000"/></a>
 </div>
