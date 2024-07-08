@@ -38,7 +38,7 @@
   </a>
   <a href="salamander011017@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/salamander011017@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 <a href="https://married-dumpling-0ef.notion.site/main-3bb508e80e854a4b81301c9b5f66e530">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Badge" />&nbsp;
