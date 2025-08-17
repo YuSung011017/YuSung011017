@@ -1,5 +1,3 @@
-<h1>돈 많은 백수를 꿈꾸며</h1>
-
 <h3>Top Languages Card</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuSung011017&layout=compact)
